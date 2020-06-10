@@ -1,6 +1,4 @@
-# DynHingeLoss
-
-##Code for the paper "An analytic theory of shallow networks dynamics for hinge loss classification"
+# Code for the paper "An analytic theory of shallow networks dynamics for hinge loss classification"
 
 This repository hosts code to reproduce all results in the paper "An analytic theory of shallow networks dynamics for hinge loss classification" by F. Pellegrini and G. Biroli.
 
